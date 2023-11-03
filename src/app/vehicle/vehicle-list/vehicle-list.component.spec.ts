@@ -49,7 +49,7 @@ describe('VehicleListComponent', () => {
     expect(component).toBeTruthy();
   });
 
-  it('should have 4 <tr> elements (head and body rows)', () => {
+  it('should have four tr elements: one head and three bodies', () => {
     expect(debug.queryAll(By.css('tr'))).toHaveSize(4)
     expect(debug.queryAll(By.css('tr.head'))).toHaveSize(1)
     expect(debug.queryAll(By.css('tr.body'))).toHaveSize(3)
