@@ -25,5 +25,4 @@ A continuación, se detalla la forma de correr los test de la aplicación de ang
 
 ### Ejecución de las pruebas de la aplicación de Angular - "TuSegundazo.com"
 
-![TuSegundazo - Tests](https://github.com/JulianP911/MISO4104-Parcial-Practico/assets/60160654/4b6ede59-bbb7-439a-b54b-194e8613bc59)
-
+![TuSegundazo - Tests](https://github.com/JulianP911/MISO4104-Parcial-Practico/assets/60160654/faa811c5-c455-4507-b03c-6f0f7fda9caa)
