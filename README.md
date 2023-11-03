@@ -1,27 +1,29 @@
-# ParcialPractico
+# Ingeniería software para la web - Parcial Práctico
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
+### Instrucciones para ejecutar la aplicación de Angular - "TuSegundazo.com"
 
-## Development server
+A continuación, se detalla la forma de correr la aplicación de angular:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<ul>
+  <li>Abrir una terminal en la ubicación del proyecto.</li>
+  <li>Ingresar el comando <code>npm install</code> para descargar las dependencias necesarias para la ejecución de la aplicación.</li>
+  <li>Ingresar el comando <code>ng serve</code> para ejecutar la aplicación.</li>
+</ul>
 
-## Code scaffolding
+### Instrucciones para ejecutar los test de la aplicación de Angular - "TuSegundazo.com"
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A continuación, se detalla la forma de correr los test de la aplicación de angular:
 
-## Build
+<ul>
+  <li>Abrir una terminal en la ubicación del proyecto.</li>
+  <li>Ingresar el comando <code>ng test</code> para ejecutar las prueba de la aplicación.</li>
+</ul>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Diseño final de la aplicación de Angular - "TuSegundazo.com"
 
-## Running unit tests
+![TuSegundazo - Page](https://github.com/JulianP911/MISO4104-Parcial-Practico/assets/60160654/d002807e-0589-419a-afc7-277a49313c84)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Ejecución de las pruebas de la aplicación de Angular - "TuSegundazo.com"
 
-## Running end-to-end tests
+![TuSegundazo - Tests](https://github.com/JulianP911/MISO4104-Parcial-Practico/assets/60160654/4b6ede59-bbb7-439a-b54b-194e8613bc59)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
